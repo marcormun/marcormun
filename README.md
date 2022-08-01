@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently finishing my studies at **Geekshubs Academy**
 
-- 🌱 I’m currently learning **Laravel and Typescript**
+- 🌱 Currently learning **Laravel and Typescript**
 
 - 📫 How to reach me **https://tinyurl.com/marcormun**
 
