@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
-<h3 align="center">A passionate junior developer from Spain</h3>
+<h3 align="center">A passionate web developer from Spain</h3>
 
 - 🔭 I’m currently finishing my studies at **Geekshubs Academy**
 
